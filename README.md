@@ -12,8 +12,7 @@ The project involved the systematic process of designing the database, starting 
 4. Defining rules for specific columns, incorporating calculations between other columns. For instance, the 'TOTAL_COST' is computed by summing 'RENTAL_COST,' 'INSURANCE_COST,' and 'TAX.'
 5. Implementing access restrictions to safeguard the integrity of the database, including the implementation of password protection.
 6. Conducting diverse analyses to extract valuable insights from the data.
-\
+
 All these processes were meticulously executed through SQL queries, which are documented in the 'Script Project UAS_Kelompok 5.sql' file.\
-\
 \
 ![491860](https://github.com/ChatleaShakira/Database-Sains-Data/assets/156671316/911c1c02-67d0-42a9-93b2-59f22cc8da72)
