@@ -15,7 +15,7 @@ The project involved the systematic process of designing the database, starting 
 5. Implementing access restrictions to safeguard the integrity of the database, including the implementation of password protection.
 6. Conducting diverse analyses to extract valuable insights from the data.
 
-All these processes were meticulously executed through SQL queries, which are documented in the 'Script Project UAS_Kelompok 5.sql' file.\
+All these processes were meticulously executed through SQL queries, which are documented in the 'Script Project UAS_Kelompok 5.sql' file.
 
 ## Acknowledgments
 
