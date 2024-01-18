@@ -5,7 +5,7 @@ Database Sains Data is one of the elective courses in the Statistics program at 
 \
 Our project revolved around the design of a comprehensive database tailored for a car rental company. This database encompasses crucial information related to the rented cars, insurance policies associated with these vehicles, rental data, customer details, and invoices. The primary objective of creating this database was to assist the car rental company in organizing and structuring their data efficiently. By leveraging the data, the company aims to enhance various aspects of their business operations, including the development of strategic marketing initiatives.\
 \
-The project involved the systematic process of designing the database, starting with the creation of an Entity Relationship Diagram (ERD), followed by the implementation of the database using SQLite software. Key activities during the execution phase included:\
+The project involved the systematic process of designing the database, starting with the creation of an Entity Relationship Diagram (ERD), followed by the implementation of the database using SQLite software. Key activities during the execution phase included:
 1. Identifying the attributes and entities to be incorporated into the database.
 2. Establishing primary and foreign keys to define relationships between entities.
 3. Creating individual tables for each entity, accompanied by their respective attributes.
