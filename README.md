@@ -11,7 +11,7 @@ The project involved the systematic process of designing the database, starting 
 3. Creating individual tables for each entity, accompanied by their respective attributes.
 4. Defining rules for specific columns, incorporating calculations between other columns. For instance, the 'TOTAL_COST' is computed by summing 'RENTAL_COST,' 'INSURANCE_COST,' and 'TAX.'
 5. Implementing access restrictions to safeguard the integrity of the database, including the implementation of password protection.
-5. Conducting diverse analyses to extract valuable insights from the data.
+6. Conducting diverse analyses to extract valuable insights from the data.
 \
 All these processes were meticulously executed through SQL queries, which are documented in the 'Script Project UAS_Kelompok 5.sql' file.\
 \
